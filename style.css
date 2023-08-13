@@ -161,6 +161,11 @@ h1 {font-size:1.5em;margin-bottom:55px;}
 
 }
 
+.header img {
+  height: 200px;
+  width:200px;
+}
+
 .content {
   background: #ffffff;
   background: -moz-linear-gradient(-45deg, #ffffff 0%, #ffffff 50%, #F2F2F2 50%, #F2F2F2 50%, #F2F2F2 100%);
